@@ -1,0 +1,6 @@
+{
+  "name": "Grand Horizon Hotels",
+  "description": "A premium, elegant hotel booking experience with live search, filters, wishlists, and booking confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
